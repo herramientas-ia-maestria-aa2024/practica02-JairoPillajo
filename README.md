@@ -11,3 +11,6 @@
 
 
 #### Proyecto con fines educativos
+Jairo Pillajo - 0995815164
+Byron Acaro 0994900697
+José Luis Masache
