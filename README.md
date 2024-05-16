@@ -9,8 +9,9 @@
 3. El servidor de MlFlow deberá ejecutarse en el puerto 9090
 4. Cambiar las configuraciones del algoritmo LogisticRegression.
 
+### Integrantes Grupo 8
+1. José Luis Masache
+2. Jairo Pillajo
+3. Byron Acaro
 
 #### Proyecto con fines educativos
-Jairo Pillajo - 0995815164
-Byron Acaro 0994900697
-José Luis Masache
